@@ -1,0 +1,10 @@
+{
+    "editor.cursorBlinking": "blink",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "editor.fontSize": 20,
+    "editor.minimap.sectionHeaderFontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "commentTranslate.multiLineMerge": false,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
